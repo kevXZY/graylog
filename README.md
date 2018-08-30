@@ -1,5 +1,4 @@
-# Graylog
-# Graylog Parsers and snippets
+# Graylog extractors
 
 # 30/08/2018: Added extractors for Apache
 
